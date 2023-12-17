@@ -145,6 +145,7 @@ dmypy.json
 data
 trash/
 logs
+docs/
 
 # configs
 docs/clearml/configs/*.conf
